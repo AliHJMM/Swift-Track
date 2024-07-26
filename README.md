@@ -15,7 +15,7 @@ this APP allows users to:
 
 - track the status of incoming shipments and confirm deliveries
 
-- and as an Administrator:maintain the database, Track and perform CRUD operations(using microsoft sql server)
+- and as an Administrator:maintain the database, Track and perform CRUD operations **(using microsoft sql server)**
 
 ### ⚠️**To login as an admin use one of these three accounts:**⚠️
 
