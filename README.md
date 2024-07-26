@@ -15,7 +15,7 @@ this APP allows users to:
 
 - track the status of incoming shipments and confirm deliveries
 
-- and as an Administrator:maintain the database, Track and perform CRUD operations **(using microsoft sql server)**
+- and as an Administrator: maintain the database, Track and perform CRUD operations **(using microsoft sql server)**
 
 ### ⚠️**To login as an admin use one of these three accounts:**⚠️
 
@@ -29,7 +29,7 @@ this APP allows users to:
 
 - Download the zip file or Clone it.
 
-- To access tha APP Directly:
+- To access tha APP directly:
 
 1. after u download the folder extract it 
 
@@ -55,7 +55,6 @@ this APP allows users to:
 ![OrderSubmition](https://github.com/user-attachments/assets/d37b2e7d-9839-4c85-8649-44749bfe2d10)
 
 <img width="365" alt="code" src="https://github.com/user-attachments/assets/c109ce8d-074a-438a-826e-15004fb90b01">
-
 
 ![RecieverTracker](https://github.com/user-attachments/assets/9cb75b56-ffe9-4341-b120-effab005ac94)
 
