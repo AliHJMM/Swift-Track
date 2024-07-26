@@ -44,7 +44,7 @@ this APP allows users to:
 ## App Walkthrough
 
 
-<img width="468" alt="Home" src="https://github.com/user-attachments/assets/f917c700-2b57-4d68-bf35-badc4d5a4401"> | ![Provider Acc](https://github.com/user-attachments/assets/642d640a-a65c-4304-8418-c10924622e11)
+<img width="468" alt="Home" src="https://github.com/user-attachments/assets/f917c700-2b57-4d68-bf35-badc4d5a4401">|![Provider Acc](https://github.com/user-attachments/assets/642d640a-a65c-4304-8418-c10924622e11)
 
 ![Provider](https://github.com/user-attachments/assets/10d51321-ec0c-4a0a-8e07-03cca50938fe)
 
