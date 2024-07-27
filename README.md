@@ -7,7 +7,7 @@
 This is a C#-based Windows Forms App, built for the IS241 Software Development course at UOB made by:
 - [Mohamed Alasfoor](https://github.com/Mohamed-Alasfoor)
 - [Habib Mansoor](https://github.com/7abib04)
-- [Ali Hassan](https://github.com/AliHJMM)
+- [Ali Hasan](https://github.com/AliHJMM)
 
 this APP allows users to:
 
