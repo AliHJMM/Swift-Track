@@ -9,15 +9,15 @@ This is a C#-based Windows Forms App, built for the IS241 Software Development c
 - [Habib Mansoor](https://github.com/7abib04)
 - [Ali Hasan](https://github.com/AliHJMM)
 
-this APP allows users to:
+This APP allows users to:
 
-- post shipment requests and track their status
+- Post shipment requests and track their status
 
-- track the status of incoming shipments and confirm deliveries
+- Track the status of incoming shipments and confirm deliveries
 
-- and as an Administrator: maintain the database, Track and perform CRUD operations **(using microsoft sql server)**
+- & as an Administrator: maintain the database, Track and perform CRUD operations **(using microsoft sql server)**
 
-### ⚠️**To login as an admin use one of these three accounts:**⚠️
+### ⚠️To login as an admin use one of these three accounts:⚠️
 
 **username** : mohamed  or habib  or ali
 
