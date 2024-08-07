@@ -1,13 +1,16 @@
 # Swift-Tracker
 **Courier Management System**
 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 ## Description
 
 
 This is a C#-based Windows Forms App, built for the IS241 Software Development course at UOB made by:
-- [Mohamed Alasfoor](https://github.com/Mohamed-Alasfoor)
-- [Habib Mansoor](https://github.com/7abib04)
 - [Ali Hasan](https://github.com/AliHJMM)
+- [Habib Mansoor](https://github.com/7abib04)
+- [Mohamed Alasfoor](https://github.com/Mohamed-Alasfoor)
 
 This APP allows users to:
 
